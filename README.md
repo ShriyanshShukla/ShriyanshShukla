@@ -12,6 +12,7 @@ I enjoy working end-to-end on datasets: from fixing missing values and outliers,
 - 🌱 I’m currently learning: Machine Learning
 - 👯 I’m looking to collaborate on: Data Projects
 - 💬 Ask me about: Python
+- 📄 My Resume: [**Resume Link**](https://www.youtube.com/watch?v=ryNz7uZ-N10)
 - 📫 How to reach me: [iamshriyanshshukla@gmail.com](mailto:iamshriyanshshukla@gmail.com)
 - ⚡ Fun fact: Data Nerd
 
