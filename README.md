@@ -8,8 +8,7 @@ Hi, I’m Shriyansh a data enthusiast focused on turning raw data into clear ins
 
 I enjoy working end-to-end on datasets: from fixing missing values and outliers, to engineering features that actually improve model performance, to creating dashboards that help people understand what the data is saying, Most of my projects involve Python, SQL, Power BI and Machine Learning techniques, and I’m particularly interested in time-based data, pattern analysis, and real-world forecasting.
 
-- 🔭 I’m currently working on:
-AQI trend analysis, forecasting models, and end-to-end data analytics projects.
+- 🔭 I’m currently working on AQI forecasting and analytics
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
