@@ -8,17 +8,12 @@ Hi, I’m Shriyansh a data enthusiast focused on turning raw data into clear ins
 
 I enjoy working end-to-end on datasets: from fixing missing values and outliers, to engineering features that actually improve model performance, to creating dashboards that help people understand what the data is saying, Most of my projects involve Python, SQL, Power BI and Machine Learning techniques, and I’m particularly interested in time-based data, pattern analysis, and real-world forecasting.
 
-- 🔭 I’m currently working on AQI forecasting and analytics
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-* 🌍  I'm based in India
-* ✉️  You can contact me at [iamshriyanshshukla@gmail.com](mailto:iamshriyanshshukla@gmail.com)
-* 🧠  I'm currently learning about Data Science
+- 🔭 I’m currently working on: AQI Forecasting and Analytics
+- 🌱 I’m currently learning: Machine Learning
+- 👯 I’m looking to collaborate on: Data Projects
+- 💬 Ask me about: Python
+- 📫 How to reach me: [iamshriyanshshukla@gmail.com](mailto:iamshriyanshshukla@gmail.com)
+- ⚡ Fun fact: Data Nerd
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
