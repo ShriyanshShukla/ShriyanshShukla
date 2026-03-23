@@ -1,7 +1,7 @@
 Hi 👋 My name is Shriyansh Shukla
 =========================================================================================================================================
 
-Data Analyst
+AI/ML Engineer 
 ------------
 
 Hi, I’m Shriyansh a data enthusiast focused on turning raw data into clear insights, practical dashboards, and reliable predictive models, My work combines data cleaning, feature engineering, machine learning, and business-focused visualization, with the goal of building projects that are both technically solid and visually understandable.
