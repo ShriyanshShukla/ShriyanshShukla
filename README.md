@@ -10,13 +10,13 @@ Recently, I have been working on Generative AI applications such as RAG-based qu
 
 I am particularly interested in LLM applications, agent workflows, vector databases, and real-world AI system design.
 
-- 🔭 I’m currently working on: RAG Systems, CRAG, AQI Forecasting, Azure ML Deployment
-- 🌱 I’m currently learning: LangChain, LangGraph, Agentic AI, FastAPI
+- 🔭 I’m currently working on: Agentic AI, RAG Systems, CRAG, Azure ML Deployment
+- 🌱 I’m currently learning: LangChain, LangGraph, FastAPI
 - 👯 I’m looking to collaborate on: AI / GenAI / ML Projects
 - 💬 Ask me about: Machine Learning, RAG, Python, SQL, Power BI
-- 📄 My Resume: [**Resume**](https://drive.google.com/file/d/1Jz-a-CjeBLzUxRtH4VaXYKqpbbmKJKOP/view?usp=sharing)
+- 📄 My Resume: [**Resume**](https://drive.google.com/file/d/1299-9zVtNdHgMS6S_5f6BrC8nsxtuPE2/view?usp=drivesdk)
 - 📫 How to reach me: [iamshriyanshshukla@gmail.com](mailto:iamshriyanshshukla@gmail.com)
-- ⚡ Fun fact: I like building end-to-end AI systems more than just training models
+- ⚡ Fun fact: Data Nerd
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
