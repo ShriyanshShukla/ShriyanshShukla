@@ -1,7 +1,7 @@
 Hi 👋 My name is Shriyansh Shukla
 =========================================================================================================================================
 
-AI / Machine Learning / Generative AI Developer
+AI / ML Engineer 
 ------------
 
 Hi, I’m Shriyansh, an AI and Machine Learning developer focused on building data-driven and AI-powered applications. My work involves machine learning, NLP, vector databases, and Retrieval-Augmented Generation (RAG) systems. I enjoy building complete end-to-end systems starting from data preprocessing and feature engineering to model building, LLM integration, and deployment as APIs or cloud endpoints.
